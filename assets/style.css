@@ -1,0 +1,30 @@
+img.nav-logo {
+    padding: 2px;
+    margin: 10px;
+}
+
+
+.hero-section {
+    background: url("images/hero-img.jpg") ;
+    background-size: cover;
+  }
+
+  .hero-text {
+
+    padding: 25px;
+    margin: 25px;
+}
+
+.hero-btns {
+
+    padding: 25px;
+    margin: 25px;
+}
+
+.hero-about{
+
+    padding: 5px 25px;
+    margin: 5px 25px;
+    color: #000;
+    font-weight: 500;
+}
